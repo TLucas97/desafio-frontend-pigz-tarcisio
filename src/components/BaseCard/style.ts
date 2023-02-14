@@ -35,7 +35,7 @@ export const BaseCardWrapper = styled.div<CardProps>`
   margin: 0;
 
   @media (max-width: 420px) {
-    width: 100%;
+    width: 95%;
     margin: 0 auto;
   }
 `;

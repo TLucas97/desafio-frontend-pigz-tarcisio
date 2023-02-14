@@ -136,7 +136,7 @@ export const PigzItensWrapper = styled.div`
         margin-top: 2em;
 
         @media (max-width: 420px) {
-          width: 100%;
+          width: 75%;
         }
       }
 
