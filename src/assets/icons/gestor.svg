@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fa641e"/>
+      <stop offset="1" stop-color="#ff881f"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_3545" data-name="Grupo 3545" transform="translate(-790 -1121)">
+    <rect id="Retângulo_5449" data-name="Retângulo 5449" width="72" height="72" transform="translate(790 1121)" fill="#fff" opacity="0"/>
+    <g id="Pigz_Gestão_-_Logo_Monocromática" data-name="Pigz Gestão - Logo Monocromática" transform="translate(794 1134.591)">
+      <path id="Caminho_1198" data-name="Caminho 1198" d="M741.017,420.391H723.44a3.529,3.529,0,0,0-2.517.83,3.448,3.448,0,0,0-.923,2.61v37.84a3.956,3.956,0,0,0,.495,2.078,3.181,3.181,0,0,0,2.945,1.363h4.065a3.766,3.766,0,0,0,2.267-.621,3.277,3.277,0,0,0,1.173-2.82V452.2l-.23-.035c-2.739-.43-4.8-1.094-6.708-3.081h0a14.61,14.61,0,0,0,7.94,2.206h9.068c8.694,0,14.573-6.505,14.573-15.512S749.71,420.391,741.017,420.391Zm-10.124,20.254a4.8,4.8,0,1,1,4.8-4.805A4.8,4.8,0,0,1,730.893,440.645Zm13.8,0a4.8,4.8,0,1,1,4.795-4.805A4.8,4.8,0,0,1,744.7,440.645Z" transform="translate(-691.59 -420.342)" fill="url(#linear-gradient)"/>
+      <rect id="Retângulo_1885" data-name="Retângulo 1885" width="11.386" height="34.221" rx="2" transform="translate(14.074 10.546)" fill="url(#linear-gradient)"/>
+      <rect id="Retângulo_1886" data-name="Retângulo 1886" width="11.386" height="24.565" rx="2" transform="translate(0 20.201)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
