@@ -1,4 +1,5 @@
 import { BaseCardWrapper, colors, sizes } from "./style";
+import { AnimationOnScroll } from "react-animation-on-scroll";
 
 interface BaseCardProps {
   children: React.ReactNode;
@@ -12,8 +13,10 @@ export const BaseCard: React.FC<BaseCardProps> = ({
   color,
 }) => {
   return (
-    <BaseCardWrapper size={size} color={color}>
-      {children}
-    </BaseCardWrapper>
+    <AnimationOnScroll animateIn="animate__bounceIn">
+      <BaseCardWrapper size={size} color={color}>
+        {children}
+      </BaseCardWrapper>
+    </AnimationOnScroll>
   );
 };

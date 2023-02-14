@@ -6,6 +6,7 @@ import { PresentationArea } from "./components/PresentationArea";
 import { FormCard } from "./components/FormCard";
 import { PigzItems } from "./components/PigzItems";
 import pigz from "./assets/images/pigz-pigz.png";
+import "animate.css/animate.min.css";
 
 function App() {
   return (

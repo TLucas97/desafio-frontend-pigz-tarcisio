@@ -45,13 +45,29 @@ export const PigzItensWrapper = styled.div`
       justify-content: center;
       align-items: center;
 
+      img {
+        @media (max-width: 420px) {
+          width: 55px;
+        }
+      }
+
       .card-title {
         font-size: 20px;
         font-weight: bold;
+
+        @media (max-width: 420px) {
+          font-size: 16px;
+          text-align: center;
+        }
       }
 
       .card-subtitle {
         font-size: 16px;
+
+        @media (max-width: 420px) {
+          font-size: 12px;
+          text-align: center;
+        }
       }
     }
   }
