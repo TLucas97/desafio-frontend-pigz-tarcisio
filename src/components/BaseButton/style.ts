@@ -16,7 +16,7 @@ export const Button = styled.button<ButtonProps>`
   height: 50px;
   background: ${(props) => colors[props.color]};
   color: ${baseColors.light[1]};
-  border-radius: 16px 16px 16px 16px;
+  border-radius: 16px;
   border: none;
   font-size: 16px;
   font-weight: 600;

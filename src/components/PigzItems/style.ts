@@ -56,7 +56,7 @@ export const PigzItensWrapper = styled.div`
         font-weight: bold;
 
         @media (max-width: 420px) {
-          font-size: 16px;
+          width: 260px;
           text-align: center;
         }
       }
@@ -65,7 +65,7 @@ export const PigzItensWrapper = styled.div`
         font-size: 16px;
 
         @media (max-width: 420px) {
-          font-size: 12px;
+          width: 260px;
           text-align: center;
         }
       }
@@ -110,7 +110,7 @@ export const PigzItensWrapper = styled.div`
       height: 5px;
       border: none;
       background: ${baseColors.light[4]};
-      border-radius: 32px 32px 32px 32px;
+      border-radius: 32px;
     }
   }
 

@@ -6,7 +6,7 @@ export const FormCardContainer = styled.div`
   height: 557px;
   background: ${baseColors.light[1]};
   color: ${baseColors.dark[2]};
-  border-radius: 32px 32px 32px 32px;
+  border-radius: 32px;
   padding: 1.5em;
   display: flex;
   flex-direction: column;

@@ -30,11 +30,12 @@ export const BaseCardWrapper = styled.div<CardProps>`
   width: ${(props) => sizes[props.size].w};
   height: ${(props) => sizes[props.size].h};
   background: ${(props) => colors[props.color]};
-  border-radius: 64px 64px 64px 64px;
+  border-radius: 64px;
   padding: 0;
   margin: 0;
 
   @media (max-width: 420px) {
-    width: 95%;
+    width: 100%;
+    margin: 0 auto;
   }
 `;

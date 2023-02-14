@@ -13,14 +13,14 @@ export const InputWrapper = styled.div`
     height: 48px;
     background: ${baseColors.light[1]};
     border: 1px solid ${baseColors.dark[7]};
-    border-radius: 16px 16px 16px 16px;
+    border-radius: 16px;
     display: flex;
     align-items: center;
     margin-top: 0.3em;
 
     .phone-area {
         background: ${baseColors.light[5]};
-        border-radius: 16px 16px 16px 16px;
+        border-radius: 16px;
         width: 100px;
         height: 100%;
         display: flex;
